@@ -1,2 +1,3 @@
-# Ir-recever
-Ir recever for Arduino
+# IR Remote Transmitter and Receiver with Arduino
+IR or infrared communication is one of the most common methods of wireless communication due to being easy to use and having an affordable price. Infrared light, with a wavelength longer than visible light, is not within the range of human vision. That’s why it’s a good option for wireless communications. When you press a button on your TV control, an LED on your control turns on and off continuously and causes a modulated infrared signal to send from the control to your TV.
+![2022-05-29 13 59 43](https://user-images.githubusercontent.com/94646702/173844479-33cefd19-e2ab-4c94-8c83-eb85e7041e39.jpeg)
